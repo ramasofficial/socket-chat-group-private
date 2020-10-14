@@ -1,0 +1,22 @@
+{
+  "name": "Socket chat with node.js",
+  "description": "my first socket.io app",
+  "website": "https://github.com/ramasofficial/socket-chat-group-private/",
+  "repository": "https://github.com/ramasofficial/socket-chat-group-private/",
+  "logo": "",
+  "success_url": "/",
+  "keywords": [
+    "node",
+    "express",
+    "socket.io",
+    "realtime",
+    "websocket"
+  ],
+  "scripts": {
+  },
+  "addons": [
+  ],
+  "env": {
+    "BUILDPACK_URL": ""
+  }
+}
